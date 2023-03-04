@@ -14,3 +14,15 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Jason\MyNewMVC\MyNewMVC\MyNewMVCS
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jason/MyNewMVC/MyNewMVC/MyNewMVCS/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jason/MyNewMVC/MyNewMVC/MyNewMVCS/Views/Home/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jason/MyNewMVC/MyNewMVC/MyNewMVCS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

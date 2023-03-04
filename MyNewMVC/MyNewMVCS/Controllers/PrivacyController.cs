@@ -2,7 +2,7 @@
 
 namespace MyNewMVCS.Controllers
 {
-    public class PrivacyController1 : Controller
+    public class PrivacyController : Controller
     {
         public IActionResult Index()
         {
